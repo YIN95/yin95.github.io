@@ -1,0 +1,9 @@
+@inproceedings{yin2024scalable,
+  title={Scalable Motion Style Transfer with Constrained Diffusion Generation},
+  author={Yin, Wenjie and Yu, Yi and Yin, Hang and Kragic, Danica and Bj{\"o}rkman, M{\aa}rten},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={9},
+  pages={10234--10242},
+  year={2024}
+}

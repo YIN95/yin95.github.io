@@ -1,0 +1,6 @@
+@article{yin2024lm2d,
+  title={LM2D: Lyrics-and Music-Driven Dance Synthesis},
+  author={Yin, Wenjie and Zhao, Xuejiao and Yu, Yi and Yin, Hang and Kragic, Danica and Bj{\"o}rkman, M{\aa}rten},
+  journal={arXiv preprint arXiv:2403.09407},
+  year={2024}
+}
