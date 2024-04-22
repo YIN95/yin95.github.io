@@ -1,0 +1,8 @@
+@inproceedings{yin2023controllable,
+  title={Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models},
+  author={Yin, Wenjie and Tu, Ruibo and Yin, Hang and Kragic, Danica and Kjellstr{\"o}m, Hedvig and Bj{\"o}rkman, M{\aa}rten},
+  booktitle={2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+  pages={1102--1108},
+  year={2023},
+  organization={IEEE}
+}

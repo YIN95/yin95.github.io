@@ -1,0 +1,10 @@
+@article{yin2023multimodal,
+  title={Multimodal dance style transfer},
+  author={Yin, Wenjie and Yin, Hang and Baraka, Kim and Kragic, Danica and Bj{\"o}rkman, M{\aa}rten},
+  journal={Machine Vision and Applications},
+  volume={34},
+  number={4},
+  pages={48},
+  year={2023},
+  publisher={Springer}
+}
