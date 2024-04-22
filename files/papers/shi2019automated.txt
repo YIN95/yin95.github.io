@@ -1,0 +1,6 @@
+@inproceedings{shi2019automated,
+  title={Automated underwater pipeline damage detection using neural nets},
+  author={Shi, Jiajun and Yin, Wenjie and Du, Yipai and Folkesson, John},
+  booktitle={ICRA 2019 Workshop on Underwater Robotics Perception},
+  year={2019}
+}

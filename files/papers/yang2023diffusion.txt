@@ -1,0 +1,6 @@
+@article{yang2023diffusion,
+  title={Diffusion-based Time Series Data Imputation for Microsoft 365},
+  author={Yang, Fangkai and Yin, Wenjie and Wang, Lu and Li, Tianci and Zhao, Pu and Liu, Bo and Wang, Paul and Qiao, Bo and Liu, Yudong and Bj{\"o}rkman, M{\aa}rten and others},
+  journal={arXiv preprint arXiv:2309.02564},
+  year={2023}
+}

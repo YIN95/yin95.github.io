@@ -1,0 +1,8 @@
+@inproceedings{demir2022improving,
+  title={Improving EEG-based motor execution classification for robot control},
+  author={Demir Kanik, Sumeyra U and Yin, Wenjie and Guneysu Ozgur, Arzu and Ghadirzadeh, Ali and Bj{\"o}rkman, M{\aa}rten and Kragic, Danica},
+  booktitle={International Conference on Human-Computer Interaction},
+  pages={65--82},
+  year={2022},
+  organization={Springer}
+}
