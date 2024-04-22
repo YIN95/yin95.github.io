@@ -1,0 +1,8 @@
+@inproceedings{yang2020impact,
+  title={Impact of trajectory generation methods on viewer perception of robot approaching group behaviors},
+  author={Yang, Fangkai and Yin, Wenjie and Bj{\"o}rkman, M{\aa}rten and Peters, Christopher},
+  booktitle={2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
+  pages={509--516},
+  year={2020},
+  organization={IEEE}
+}

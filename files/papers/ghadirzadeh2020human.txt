@@ -1,0 +1,10 @@
+@article{ghadirzadeh2020human,
+  title={Human-centered collaborative robots with deep reinforcement learning},
+  author={Ghadirzadeh, Ali and Chen, Xi and Yin, Wenjie and Yi, Zhengrong and Bj{\"o}rkman, M{\aa}rten and Kragic, Danica},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={2},
+  pages={566--571},
+  year={2020},
+  publisher={IEEE}
+}

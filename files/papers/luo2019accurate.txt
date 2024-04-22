@@ -1,0 +1,9 @@
+@article{luo2019accurate,
+  title={Accurate targeting in robot-assisted TCM pulse diagnosis using adaptive sensor fusion},
+  author={Luo, Jingjing and Chun, Ouyang and Nie, Xiaokai and Yin, Wenjie and Lu, Hong and Guo, Yuzhu},
+  journal={Periodicals of Engineering and Natural Sciences},
+  volume={7},
+  number={1},
+  pages={381--387},
+  year={2019}
+}
