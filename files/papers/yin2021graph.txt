@@ -1,0 +1,8 @@
+@inproceedings{yin2021graph,
+  title={Graph-based normalizing flow for human motion generation and reconstruction},
+  author={Yin, Wenjie and Yin, Hang and Kragic, Danica and Bj{\"o}rkman, M{\aa}rten},
+  booktitle={2021 30th IEEE International Conference on Robot \& Human Interactive Communication (RO-MAN)},
+  pages={641--648},
+  year={2021},
+  organization={IEEE}
+}
